@@ -1,0 +1,17 @@
+[
+  {
+    "user": "harish",
+    "role": "admin",
+    "email": "mailid"
+  },
+  {
+    "user": "shyam",
+    "role": "admin",
+    "email": "shyam@gmail.com"
+  },
+  {
+    "user": "sai",
+    "role": "user",
+    "email": "sai@gmail.com"
+  }
+]

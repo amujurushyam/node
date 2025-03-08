@@ -1,0 +1,10 @@
+[
+  { "id": "1", "name": "shyam", "location": "vizag" },
+  { "id": "2", "name": "sumanth", "location": "rajahmundry" },
+  { "id": "3", "name": "hima", "location": "miyapur" },
+  { "id": 4, "name": "sai", "location": "bengaluru" },
+  { "id": 4, "name": "sai", "location": "bengaluru" },
+  { "id": 4, "name": "sai", "location": "bengaluru" },
+  { "id": 4, "name": "sai", "location": "bengaluru" },
+  { "id": 6, "name": "sai", "location": "bengaluru" }
+]

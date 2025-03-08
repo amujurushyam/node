@@ -1,0 +1,17 @@
+{
+    "name": "sumanth"
+     "place": "rajahmundry"
+     "age" : "24"
+}{
+    "name": "sumanth"
+     "place": "rajahmundry"
+     "age" : "24"
+}{
+    "name": "sumanth"
+     "place": "rajahmundry"
+     "age" : "24"
+}{
+    "name": "sumanth"
+     "place": "rajahmundry"
+     "age" : "24"
+}

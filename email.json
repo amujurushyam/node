@@ -1,0 +1,11 @@
+[
+  { "name": "Shyam", "email": "shyam@gmail.com" },
+  { "name": "Sai", "email": "sai@gmail.com" },
+  { "name": "Sumanth", "email": "sumanth@gmail.com" },
+  { "name": "Varsha", "email": "varsha@gamil.com" },
+  { "name": "Pandu", "email": "pandu@gmail.com" },
+  { "name": "Shyam", "email": "shyam@gmail.com" },
+  { "user": "sai", "role": "user", "email": "sai@gmail.com" },
+  { "name": "vamsi", "email": "vamsi@gmail.com" },
+  { "name": "shyam", "email": "shyam12@gmail.com" }
+]
